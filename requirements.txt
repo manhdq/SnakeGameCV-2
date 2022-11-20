@@ -1,0 +1,4 @@
+cvzone
+opencv-python
+pandas
+mediapipe
